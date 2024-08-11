@@ -1,4 +1,4 @@
-# Variables, data types
+# Variables, data types.
 name = "Alice"
 age = 30
 height = 1.75
